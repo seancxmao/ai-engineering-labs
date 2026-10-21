@@ -1,4 +1,4 @@
-# Labs
+# AI Engienering Labs
 
 A collection of focused, hands-on experiments for building foundations, resolving technical gaps, and exploring emerging technologies.
 
