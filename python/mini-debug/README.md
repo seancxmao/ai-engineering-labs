@@ -106,12 +106,10 @@ VS Code <-> debug adapter <-> 被调试程序，三者进行交互完成调试�
 * Debuggee process - the process that is being debugged.
 
 
-## Summary
+## Summary & Takeaways
 
 可以从三个层次理解：
 
 * Python运行时：负责执行Python代码，并提供跟踪执行、检查栈帧等能力。
 * 调试后端：例如debugpy，负责断点管理、变量检查、单步执行以及调试通信协议。
 * 调试前端：例如VS Code的调试界面，负责展示变量、调用栈、断点等，并把你的操作传给调试后端。
-
-## Takeaway

@@ -3,11 +3,11 @@
 ## Background
 
 
-## Experiments
+## Recipes
 
 ### C++
 
-通过安装 Xcode Command Line Tools，安装 C++ 编译器：
+通过安装 Xcode Command Line Tools，安装 C++ 编译器
 
 ```
 xcode-select --install
@@ -17,6 +17,21 @@ xcode-select --install
 ❯ xcode-select --install
 xcode-select: note: Command line tools are already installed. Use "Software Update" in System Settings or the softwareupdate command line interface to install updates
 ```
+
+xcode-select
+
+```
+# 查看当前选中的开发者目录
+xcode-select -p
+
+# 切换当前选中的开发者目录
+sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
+
+# 触发 Command Line Tools 安装
+xcode-select --install
+```
+
+softwareupdate
 
 ```
 ❯ softwareupdate --list
@@ -29,9 +44,3 @@ Software Update found the following new or updated software:
 	Title: Command Line Tools for Xcode 27.0, Version: 27.0, Size: 519460KiB, Recommended: YES,
 ...
 ```
-
-## Summary
-
-
-## Takeaways
-

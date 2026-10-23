@@ -2,7 +2,7 @@
 
 ## Background
 
-## Experiments
+## Recipes
 
 ### 虚拟环境
 
@@ -68,8 +68,3 @@ uv pip install -r requirements.txt
 ```
 ❯ uv run --no-project --with setuptools-scm python -m setuptools_scm
 ```
-
-## Summary
-
-
-## Takeaways

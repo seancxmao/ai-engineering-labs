@@ -3,7 +3,7 @@
 ## Background
 
 
-## Experiments
+## Recipes
 
 ### clone upstream
 
@@ -36,10 +36,3 @@ git status
 ❯ git describe --tags --long --always
 ❯ git tag --sort=-version:refname | head -20
 ```
-
-## Summary
-
-
-
-## Takeaways
-

@@ -336,10 +336,7 @@ Installed 1 package in 1ms
  ~ mini-build==0.1.0 (from file:///Users/maochenxiao/workspace/projects/personal/tech-labs/python-labs/mini-build)
 ```
 
-## Summary
+## Summary & Takeaways
 
-Build frontend + build backend
-
-## Takeaways
-
-uv + setuptools
+* Build frontend + build backend
+* uv + setuptools

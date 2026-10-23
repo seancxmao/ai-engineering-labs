@@ -3,7 +3,7 @@
 ## Background
 
 
-## Experiments
+## Recipes
 
 ### 文件管理
 
@@ -21,9 +21,3 @@ find:
 ```
 ❯ find dist -maxdepth 1 -type f
 ```
-
-## Summary
-
-
-## Takeaways
-

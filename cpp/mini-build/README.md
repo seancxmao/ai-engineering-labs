@@ -78,8 +78,4 @@ Hello from native build!
 1 + 2 = 3
 ```
 
-## Summary
-
-
-## Takeaway
-
+## Summary & Takeaway

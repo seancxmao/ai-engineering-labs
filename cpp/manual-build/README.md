@@ -51,8 +51,4 @@ clang++ -std=c++17 -I include \
 ./hello
 ```
 
-## Summary
-
-
-
-## Takeaways
+## Summary & Takeaways
