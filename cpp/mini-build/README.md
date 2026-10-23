@@ -2,12 +2,6 @@
 
 ## Background
 
-如果没有C++ 编译器，通常可以安装 Xcode Command Line Tools：
-
-```
-xcode-select --install
-```
-
 如果没有 CMake 或 Ninja，可以通过 Homebrew 安装：
 
 ```

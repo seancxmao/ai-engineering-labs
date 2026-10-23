@@ -2,7 +2,7 @@
 
 ## Background
 
-不使用构建框架，用底层工具build。
+不使用构建框架，用底层工具build。如果没有C++ 编译器，需要安装 Xcode Command Line Tools。
 
 ## Experiments
 
